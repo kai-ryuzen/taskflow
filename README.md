@@ -100,10 +100,12 @@ web (where it maps to `localStorage`).
 - Cloud sync with user login
 
 ## Author
-
 **Devraj Panchal**
 Enrollment No.: **2305101270066**
 Subject: Cross Platform Development (CPD)
+Worked on this project with:
+**Abhishek Kumar** 
+Enrollment No.: **2305101270005**
 
 ## License
 
