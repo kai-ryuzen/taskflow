@@ -102,11 +102,10 @@ web (where it maps to `localStorage`).
 ## Author
 **Devraj Panchal**
 Enrollment No.: **2305101270066**
-Subject: Cross Platform Development (CPD)
 Worked on this project with:
 **Abhishek Kumar** 
 Enrollment No.: **2305101270005**
-
+Subject: Cross Platform Development (CPD)
 ## License
 
 MIT — feel free to use this project for learning purposes.
